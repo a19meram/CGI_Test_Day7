@@ -1,0 +1,15 @@
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/bin/Debug/net7.0/CGI_Test_Day7
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/bin/Debug/net7.0/CGI_Test_Day7.deps.json
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/bin/Debug/net7.0/CGI_Test_Day7.runtimeconfig.json
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/bin/Debug/net7.0/CGI_Test_Day7.dll
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/bin/Debug/net7.0/CGI_Test_Day7.pdb
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/obj/Debug/net7.0/CGI_Test_Day7.csproj.AssemblyReference.cache
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/obj/Debug/net7.0/CGI_Test_Day7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/obj/Debug/net7.0/CGI_Test_Day7.AssemblyInfoInputs.cache
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/obj/Debug/net7.0/CGI_Test_Day7.AssemblyInfo.cs
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/obj/Debug/net7.0/CGI_Test_Day7.csproj.CoreCompileInputs.cache
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/obj/Debug/net7.0/CGI_Test_Day7.dll
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/obj/Debug/net7.0/refint/CGI_Test_Day7.dll
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/obj/Debug/net7.0/CGI_Test_Day7.pdb
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/obj/Debug/net7.0/CGI_Test_Day7.genruntimeconfig.cache
+/Users/meronabraham/Documents/C#/CGI_Test_Day7/obj/Debug/net7.0/ref/CGI_Test_Day7.dll
