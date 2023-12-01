@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 
 namespace CrabAlignment
 {
@@ -12,6 +13,9 @@ namespace CrabAlignment
 
             // Read the puzzle input
             string input = File.ReadAllText(filePath);
+
+            //Converting input to an array of integers
+            int[] positions = input.Split(',').Select(int.Parse).ToArray();
         }
     }
 }
