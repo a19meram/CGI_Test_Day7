@@ -41,11 +41,22 @@ namespace CrabAlignment
             Console.WriteLine($"Median: {median}");
             Console.WriteLine($"Mean: {mean}");
 
-            Console.ReadLine();
+            
 
 
             // Based on the calulations of the median and mean calculate the fuel spent
             /*Add the calcultions on the next commit*/
+
+            Console.WriteLine("\n-------------------------");
+
+            // The optimal position are based on the median
+            Console.WriteLine($"Optimal Position: {median}");
+
+            // Calculate total fuel spent to align to the median position
+            int totalFuel = positions.Sum(pos => Math.Abs(pos - (int)median));
+            Console.WriteLine($"Total fuel to align to median: {totalFuel}");
+
+            Console.ReadLine();
         }
     }
 }
