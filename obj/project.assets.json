@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/meronabraham/Projects/CGI_Test_Day7/CGI_Test_Day7.csproj",
+      "projectUniqueName": "/Users/meronabraham/Documents/C#/CGI_Test_Day7/CGI_Test_Day7.csproj",
       "projectName": "CGI_Test_Day7",
-      "projectPath": "/Users/meronabraham/Projects/CGI_Test_Day7/CGI_Test_Day7.csproj",
+      "projectPath": "/Users/meronabraham/Documents/C#/CGI_Test_Day7/CGI_Test_Day7.csproj",
       "packagesPath": "/Users/meronabraham/.nuget/packages/",
-      "outputPath": "/Users/meronabraham/Projects/CGI_Test_Day7/obj/",
+      "outputPath": "/Users/meronabraham/Documents/C#/CGI_Test_Day7/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/meronabraham/.nuget/NuGet/NuGet.Config"
